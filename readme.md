@@ -21,8 +21,7 @@ to view replays see **[replay-viewer](https://github.com/SarpAkin/replay-viewer)
 
 # Notes
 ## windows flagging as virus
-add this projects forlder to virus scan exclusion by following bellow
-follow https://support.microsoft.com/en-us/windows/add-an-exclusion-to-windows-security-811816c0-4dfd-af4a-47e4-c301afe13b26#:~:text=Go%20to%20Start%20%3E%20Settings%20%3E%20Update,%2C%20file%20types%2C%20or%20process.
+**[add this projects folder to virus scan exclusion by following this link](https://support.microsoft.com/en-us/windows/add-an-exclusion-to-windows-security-811816c0-4dfd-af4a-47e4-c301afe13b26#:~:text=Go%20to%20Start%20%3E%20Settings%20%3E%20Update,%2C%20file%20types%2C%20or%20process.)**
 
 
 ## left handed mouse 
