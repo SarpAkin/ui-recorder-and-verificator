@@ -1,0 +1,9 @@
+scikit-image
+imutils
+opencv-python
+numpy
+Pillow
+parse
+pynput
+pyautogui
+pywin32
