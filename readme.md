@@ -16,8 +16,7 @@ run
 for replay info
 
 # replay-viewer
-to view replays see 
-https://github.com/SarpAkin/replay-viewer
+to view replays see **[replay-viewer](https://github.com/SarpAkin/replay-viewer)**
 
 
 # Notes
