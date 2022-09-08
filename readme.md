@@ -1,5 +1,5 @@
 # ui recorder and verificator
-Python scripts for auto testing windows applications.
+records, mimics, compares and verifies guis of windows application using python.
 
 # installing libraries
 ## requirements pip python 
