@@ -4,7 +4,7 @@ Python scripts for auto testing windows applications.
 # installing libraries
 ## requirements pip python 
 installing the pip modules
-> pip scikit-image imutils opencv-python numpy Pillow parse pynput pyautogui pywin32
+> pip install scikit-image imutils opencv-python numpy Pillow parse pynput pyautogui pywin32
 
 # running
 run
