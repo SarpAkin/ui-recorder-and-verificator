@@ -15,6 +15,11 @@ run
 > .\replay.py
 for replay info
 
+# replay-viewer
+to view replays see 
+https://github.com/SarpAkin/replay-viewer
+
+
 # Notes
 ## windows flagging as virus
 add this projects forlder to virus scan exclusion by following bellow
