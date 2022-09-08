@@ -1,4 +1,4 @@
-# Auto Tester
+# ui recorder and verificator
 Python scripts for auto testing windows applications.
 
 # installing libraries
