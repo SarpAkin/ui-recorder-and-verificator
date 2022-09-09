@@ -136,7 +136,9 @@ def replay(record_dir, replay_dir, replay_root):
     ss_reigon = jobj["SS_REIGON"]
     events = jobj["EVENTS"]
 
-    window.rect(ss_reigon)
+    if len(ss_reigon) != 0:
+         
+         window.rect(ss_reigon)
 
     for event in events:
         sleep_from_last(event[jn.delay])
